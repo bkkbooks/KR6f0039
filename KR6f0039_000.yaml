@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6f0039/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大乘顯識經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0347.xml
+    old_id: T12n0347
+hash: sha256:e80af120ffa03ec10b23d5abbadb7e1b67901231c8593da78c743b9777ff2030
