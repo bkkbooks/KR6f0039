@@ -23,7 +23,7 @@ assets:
   - {seq: 1, filename: KR6f0039_001-T.yaml, hash: 'sha256:d99b193a5c57494165257d8e56d25d742270e077cf4aa6961a9fa4de72193629'}
   - {seq: 2, filename: KR6f0039_002-T.yaml, hash: 'sha256:be05065891ed760cba5b52b42d82d1a047c1005021d298dbdb83575d3b6a377c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6f0039_000-T.markers.yaml, hash: 'sha256:5d44299305d31c0e3b2a89f7a44c4084882738d68ae19863af438c460209e96b'}
+  - {seq: 0, role: markers, filename: assets/KR6f0039_000-T.markers.yaml, hash: 'sha256:44683eb9a7146cfc6018b461cdc85663220ad350e0a396a277ecefaf3faeba5f'}
   - {seq: 1, role: markers, filename: assets/KR6f0039_001-T.markers.yaml, hash: 'sha256:97f00a34a61460e4635900a3baa6504eb991e353a827196634d3cfb136e53b59'}
   - {seq: 2, role: markers, filename: assets/KR6f0039_002-T.markers.yaml, hash: 'sha256:41bbea42256b2be159f6192d5479ea4b02a10478f7fbfd382e81384893042a4a'}
 table_of_contents:
@@ -47,4 +47,4 @@ table_of_contents:
   label: 大乘顯識經卷下
   type: juan
   level: 1
-hash: sha256:e0800fe86d3c551a06f6d3b512e00e761b91b0350b456b04e789490bec9a5bdd
+hash: sha256:7bd29a87175254560725370302f27b797939ac1f09683ffd1df1e3fd453eb5f1
